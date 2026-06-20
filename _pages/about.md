@@ -32,7 +32,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year PhD student at [LIPADE](https://lipade.mi.parisdescartes.fr/?lang=fr), [Université Paris Cité](https://u-paris.fr/language/en/), advised by Professors [Salima BENBERNOU](https://scholar.google.com/citations?user=asGdkO4AAAAJ&hl=en) and [Mourad OUZIRI](https://scholar.google.com/citations?hl=en&user=xtjW798AAAAJ).
+I am a first-year PhD student at [LIPADE](https://lipade.mi.parisdescartes.fr/?lang=fr), [Université Paris Cité](https://u-paris.fr/language/en/), advised by Professors [Salima BENBERNOU](https://scholar.google.com/citations?user=asGdkO4AAAAJ&hl=en) and [Mourad OUZIRI](https://scholar.google.com/citations?hl=en&user=xtjW798AAAAJ).
 
 I obtained both my Bachelor's and Master's degrees from Université Paris Cité and held a student Research and Development position at the [French National Frequency Agency (ANFR)](https://www.anfr.fr/accueil) from 2023 to 2025 
 
